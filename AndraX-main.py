@@ -90,8 +90,8 @@ def TARA_LOVE():
     if option in ['02','2']:
     	os.system('W8 FOR COMING SOON');time.sleep(1)
     if option in ['03','3']:
-    	os.system('apt install python2 git \n git clone https://github.com/AndraX-404/andrax \n cd andrax \n python2 -m pip install xdis==5.0.11 \n python2 -m pip install uncompyle6==3.7.4 \n python2 setup.py install');time.sleep(1)
-    if option in ['03','3']:
+    	os.system('apt install python2 git\ngit clone\nhttps://github.com/AndraX-404/andrax\ncd andrax\npython2 -m pip install xdis==5.0.11\npython2 -m pip install uncompyle6==3.7.4\npython2 setup.py install');time.sleep(1)
+    if option in ['04','4']:
     	os.system('xdg-open https://wa.me/+8801725308028');time.sleep(1)
     else:
         exit(' Thanks for using dear :)')
